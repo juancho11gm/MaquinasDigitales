@@ -1,2 +1,2 @@
-# Máquinas digitales
-Proyecto máquinas digitales cartas desarrollado en Assembly: videojuego de memoria (levantar cartas iguales)
+# Digital machines project
+Concentration game developed with assembly.
