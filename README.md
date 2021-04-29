@@ -24,7 +24,7 @@ Concentration game developed with assembly.
 ![image](https://user-images.githubusercontent.com/36536646/79901003-c0d96700-83d4-11ea-9e71-bad17d93462d.png)
 
 
-9. Did you won? 
+9. Did you win? 
 
 ![image](https://user-images.githubusercontent.com/36536646/79901025-c8990b80-83d4-11ea-9673-51059cb1bf95.png)
 
